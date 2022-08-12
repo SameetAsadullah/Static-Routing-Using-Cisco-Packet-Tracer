@@ -1,4 +1,4 @@
-#<h1 align="center">Static Routing Using Cisco Packet Tracer</h1>
+<h1 align="center">Static Routing Using Cisco Packet Tracer</h1>
 
 ### Description
 Implemented two demo topologies to describe `Static Routing` using `Cisco Packet Tracer`.
